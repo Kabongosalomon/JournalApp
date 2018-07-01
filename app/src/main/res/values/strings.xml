@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Journal App</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string name="text_slogan">LOOKING WHRE TO WRITE ?</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+
+    <string name="login.error.message.signin">Unable to login %s</string>
+    <string name="login.error.message.signup">Unable to sing up %s</string>
+    <string name="login.notice.message.useradded">You have successfully registered and logged in</string>
+    <string name="title_note_activity">My Notes</string>
+    <string name="menu_sign_out">Sign out</string>
+    <string name="tvor">Or</string>
+
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+</resources>

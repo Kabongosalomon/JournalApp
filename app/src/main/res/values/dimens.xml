@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="LLmargin">30dp</dimen>
+    <dimen name="tvKEINO">36sp</dimen>
+    <dimen name="tvPARTENAIRE">16sp</dimen>
+    <dimen name="Linear_Layout_Margin">60dp</dimen>
+</resources>

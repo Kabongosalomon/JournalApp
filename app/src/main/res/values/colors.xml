@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bottomtv">#000000</color>
+    <color name="rippleEffectColor">#f816a461</color>
+    <color name="cbSignIn">#1fbad6</color>
+    <color name="cbRegister">#83838c</color>
+</resources>
